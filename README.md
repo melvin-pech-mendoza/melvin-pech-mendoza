@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 <!--- - 💞️ I’m looking to collaborate on --->
 - 📫 How to reach me: melvin.pechmendoza@gmail.com
-
 - ⚡ Fun fact: love cats 
 
 <!---
